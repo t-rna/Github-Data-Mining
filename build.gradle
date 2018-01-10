@@ -1,0 +1,19 @@
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // Github API by Kohsuke Kawaguchi -- https://mvnrepository.com/artifact/org.kohsuke/github-api
+    compile group: 'org.kohsuke', name: 'github-api', version: '1.86'
+    // Apache Commons Configuration -- https://mvnrepository.com/artifact/commons-configuration/commons-configuration
+    compile group: 'commons-configuration', name: 'commons-configuration', version: '1.10'
+    // Apache Commons IO -- https://mvnrepository.com/artifact/commons-io/commons-io
+    compile group: 'commons-io', name: 'commons-io', version: '2.5'
+}

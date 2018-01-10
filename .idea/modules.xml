@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Github-Data-Mining.iml" filepath="$PROJECT_DIR$/.idea/modules/Github-Data-Mining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Github-Data-Mining_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Github-Data-Mining_main.iml" group="Github-Data-Mining" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Github-Data-Mining_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Github-Data-Mining_test.iml" group="Github-Data-Mining" />
+    </modules>
+  </component>
+</project>
